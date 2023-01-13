@@ -27,7 +27,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "D:\\Personal\\microservices\\Play.Commom\\packages\\": {},
+          "D:\\Personal\\microservices\\Julio-Casal-Tutorial\\Play.Commom\\": {},
+          "D:\\Personal\\microservices\\Julio-Casal-Tutorial\\Play.Commom\\packages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
